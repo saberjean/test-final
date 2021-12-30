@@ -3,6 +3,7 @@
     padding: 0;
     border: 0;
     box-sizing: 0;
+
 }
 .titulo-1{
     text-align: center;
@@ -13,7 +14,7 @@ background-color: #17a3b8;
 color: white;
 }
 .text{
-    background-color: black;
+    background-color: #212529;
 }
 .footer{
     background-color: #17a3b8;
