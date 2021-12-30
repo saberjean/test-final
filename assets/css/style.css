@@ -22,4 +22,12 @@ color: white;
 }
 .card{
     background-color: #17a3b8;
+    margin-bottom: 50px;
+}
+.linea{
+    margin-bottom: 5px;
+    color:#17a3b8;
+    background-color: #17a3b8;
+    border: #17a3b8;
+    border-bottom-left-radius: 5px;
 }
