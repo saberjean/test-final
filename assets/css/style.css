@@ -4,9 +4,15 @@
     border: 0;
     box-sizing: 0;
 }
+
+body{
+    font-family: 'Licorice', cursive;
+    font-family: 'Spline Sans', sans-serif;
+}
 .titulo-1{
     text-align: center;
     color: white;
+    font-family: 'Spline Sans', sans-serif;
 }
 .icons{
 background-color: #17a3b8;
